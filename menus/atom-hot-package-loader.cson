@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'atom-hot-package-loader'
+      'submenu': [
+        {
+          'label': 'Reload'
+          'command': 'atom-hot-package-loader:reload'
+        }
+      ]
+    ]
+  }
+]
