@@ -7,6 +7,18 @@
         {
           'label': 'Reload'
           'command': 'atom-hot-package-loader:reload'
+        },
+        {
+          'label': 'Watch'
+          'command': 'atom-hot-package-loader:watch'
+        },
+        {
+          'label': 'Unwatch'
+          'command': 'atom-hot-package-loader:unwatch'
+        },
+        {
+          'label': 'SelectPackage'
+          'command': 'atom-hot-package-loader:select-package'
         }
       ]
     ]
