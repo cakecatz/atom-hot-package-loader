@@ -7,6 +7,15 @@ Reload package without `window:reload`.
 UI Theme: [nucleus-dark-ui](https://atom.io/themes/nucleus-dark-ui)  
 Syntax Theme: [base16-tomorrow-dark](https://github.com/atom/base16-tomorrow-dark-theme) (installed by default)
 
+## Commands
+
+Command                                  | Description
+-----------------------------------------|---------------------------------------
+`atom-hot-package-loader:select-package` | Select target package
+`atom-hot-package-loader:reload`         | Reload targeted package
+`atom-hot-package-loader:watch`          | Start targeted package's file watching
+`atom-hot-package-loader:unwatch`        | Stop watching
+
 ## Usage
 
 Select target package by using `atom-hot-package-loader:select-package`.
