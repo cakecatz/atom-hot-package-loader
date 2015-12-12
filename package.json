@@ -6,7 +6,7 @@
   "keywords": [
     "package-development"
   ],
-  "repository": "https://github.com/atom/atom-hot-package-loader",
+  "repository": "https://github.com/cakecatz/atom-hot-package-loader",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
