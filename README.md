@@ -2,7 +2,8 @@
 
 Reload package without `window:reload`.
 
-[![https://gyazo.com/75abf396f80e6b2c90e911293015cd55](https://i.gyazo.com/75abf396f80e6b2c90e911293015cd55.gif)](https://gyazo.com/75abf396f80e6b2c90e911293015cd55)
+[![https://gyazo.com/67a86e32e418f99852d3b11b3af1f21b](https://i.gyazo.com/67a86e32e418f99852d3b11b3af1f21b.gif)](https://gyazo.com/67a86e32e418f99852d3b11b3af1f21b)
+
 
 UI Theme: [nucleus-dark-ui](https://atom.io/themes/nucleus-dark-ui)  
 Syntax Theme: [base16-tomorrow-dark](https://github.com/atom/base16-tomorrow-dark-theme) (installed by default)
