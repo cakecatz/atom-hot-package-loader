@@ -2,8 +2,19 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'atom-hot-package-loader'
+      'label': 'Hot Package Loader'
       'submenu': [
+        {
+          'label': 'Select Package'
+          'command': 'atom-hot-package-loader:select-package'
+        },
+        {
+          'label': 'Detect Package'
+          'command': 'atom-hot-package-loader:detect-package'
+        },
+        {
+          'type': 'separator'
+        },
         {
           'label': 'Reload'
           'command': 'atom-hot-package-loader:reload'
@@ -16,10 +27,6 @@
           'label': 'Unwatch'
           'command': 'atom-hot-package-loader:unwatch'
         },
-        {
-          'label': 'SelectPackage'
-          'command': 'atom-hot-package-loader:select-package'
-        }
       ]
     ]
   }
