@@ -15,6 +15,11 @@
     "atom-space-pen-views": "^2.1.0",
     "chokidar": "^1.4.1"
   },
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-config-atom-build": "^2.0.0"
+  },
   "consumedServices": {
     "status-bar": {
       "versions": {
