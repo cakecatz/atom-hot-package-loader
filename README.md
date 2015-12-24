@@ -23,7 +23,7 @@ Command                                  | Description
 Setting                    | Description
 ---------------------------|-----------------------------------------------------------------------
 `autoWatchTarget`          | Start watching the targeted package right after it has been selected
-`detectTargetOnStar`       | Try guessing target package automatically when activating this package
+`detectTargetOnStart`      | Try guessing target package automatically when activating this package
 `watchedTargetReloadDelay` | Delay before reloading watched target package
 `outputLog`                | Print debug info to console
 
