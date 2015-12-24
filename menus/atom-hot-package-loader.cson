@@ -13,9 +13,6 @@
           'command': 'atom-hot-package-loader:detect-package'
         },
         {
-          'type': 'separator'
-        },
-        {
           'label': 'Reload'
           'command': 'atom-hot-package-loader:reload'
         },
