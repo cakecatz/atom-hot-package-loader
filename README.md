@@ -29,6 +29,8 @@ Setting                    | Description
 
 ## Usage
 
+__Open Atom editor window in devMode__ (e.g. `View / Developer / Open In Dev Mode...` via app menu).
+
 Select target package by using `atom-hot-package-loader:select-package`. Alternatively you can use `atom-hot-package-loader:detect-package` command which will try to guess target package based on paths of active text editor and project's root directories.
 
 [![https://gyazo.com/900544de8bbf23d4a269288772ffb292](https://i.gyazo.com/900544de8bbf23d4a269288772ffb292.png)](https://gyazo.com/900544de8bbf23d4a269288772ffb292)
