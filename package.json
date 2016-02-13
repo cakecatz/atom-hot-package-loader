@@ -1,7 +1,7 @@
 {
   "name": "atom-hot-package-loader",
   "main": "./lib/index",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Hot reloading for package development",
   "keywords": [
     "package-development"
