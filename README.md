@@ -1,5 +1,7 @@
 # Atom Hot Package Loader
 
+[![Build Status](https://travis-ci.org/cakecatz/atom-hot-package-loader.svg?branch=master)](https://travis-ci.org/cakecatz/atom-hot-package-loader)
+
 Reload package without `window:reload`.
 
 [![https://gyazo.com/67a86e32e418f99852d3b11b3af1f21b](https://i.gyazo.com/67a86e32e418f99852d3b11b3af1f21b.gif)](https://gyazo.com/67a86e32e418f99852d3b11b3af1f21b)
