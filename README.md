@@ -20,12 +20,13 @@ Command                                  | Description
 
 ## Settings
 
-Setting                    | Description
----------------------------|-----------------------------------------------------------------------
-`autoWatchTarget`          | Start watching the targeted package right after it has been selected
-`detectTargetOnStart`      | Try guessing target package automatically when activating this package
-`watchedTargetReloadDelay` | Delay before reloading watched target package
-`outputLog`                | Print debug info to console
+Setting                    | default | Description
+---------------------------|--------:|--------------------------------------------------------------
+`autoWatchTarget`          | `false` | Start watching the targeted package right after it has been selected
+`detectTargetOnStart`      | `false` | Try guessing target package automatically when activating this package
+`watchedTargetReloadDelay` |   `100` | Delay before reloading watched target package
+`onlyInDevMode`            |  `true` | Use this plugin only in `devMode`
+`outputLog`                | `false` | Print debug info to console
 
 ## Usage
 
