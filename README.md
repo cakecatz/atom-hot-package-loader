@@ -4,7 +4,8 @@
 
 Reload package without `window:reload`.
 
-[![https://gyazo.com/67a86e32e418f99852d3b11b3af1f21b](https://i.gyazo.com/67a86e32e418f99852d3b11b3af1f21b.gif)](https://gyazo.com/67a86e32e418f99852d3b11b3af1f21b)
+
+![67a86e32e418f99852d3b11b3af1f21b](https://user-images.githubusercontent.com/6136383/28197717-af02bd56-6893-11e7-90fd-2d53cc764c28.gif)
 
 
 UI Theme: [nucleus-dark-ui](https://atom.io/themes/nucleus-dark-ui)  
